@@ -1,0 +1,14 @@
+{
+  "name": "vodafone-assignment-cy",
+  "version": "1.0.0",
+  "description": "Assignment with cypress for vodafone-ziggo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit Das",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "9.5.0"
+  }
+}
